@@ -1,5 +1,6 @@
 Bruno Mathias
-programador formado pela unoeste / Corretor de imóveis
+Corretor de imóveis
+e programador formado pela unoeste.
 Curso de Analise e Desenvolvimentos de sistemas
 
 
